@@ -1,0 +1,3 @@
+rootProject.name = 'Clusterizacao'
+
+include ':app'
