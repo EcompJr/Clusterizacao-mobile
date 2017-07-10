@@ -1,11 +1,5 @@
-/**
- * Clusterização Mobile App
- * https://github.com/ecompjr
- * @Cássio Santos
- */
-
 import { AppRegistry } from 'react-native';
 
-import App from './app';
+import App from './aplication';
 
 AppRegistry.registerComponent('Clusterizacao', () => App);
